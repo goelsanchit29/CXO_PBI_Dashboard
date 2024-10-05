@@ -1,2 +1,3 @@
 # CXO_PBI_Dashboards
  
+The "CXO Power BI Dashboards" GitHub repository contains a collection of custom Power BI dashboards designed for CXO-level executives, including CEO, CFO, COO, CMO, and others. Each dashboard is tailored to provide strategic insights, focusing on key performance indicators (KPIs) relevant to each role. These dashboards visualize financial metrics, operational efficiency, marketing performance, and more, enabling data-driven decision-making at the executive level. The repository demonstrates advanced Power BI features, offering an efficient way to monitor business health across various domains.
